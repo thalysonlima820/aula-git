@@ -1,3 +1,11 @@
 git status
 
 git reset --hard (cod do repositorio)
+
+//padrao
+git reset --hard main
+
+
+branch
+git branch
+git branch <nome>
